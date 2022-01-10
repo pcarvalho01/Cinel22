@@ -44,7 +44,7 @@ h1, h2 strong {
 }
 
 html {
-    background-image: url("header.jpg");
+    background-image: url("/Cinel22/image/header.jpg");
     background-position: center top;
     background-repeat: no-repeat;
     background-size: 100% 30%;
